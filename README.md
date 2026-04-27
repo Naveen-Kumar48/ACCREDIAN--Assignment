@@ -77,4 +77,4 @@ The project focuses on "Editorial Design"—using white space, bold typography, 
 - **Unit Testing:** Add Jest/Cypress tests for core user paths like form submission.
 
 ---
-*Developed for the Accredian Full Stack Developer Intern Assignment.*
+*Developed by Naveen Kumar with ❤️ for the  Accredian Enterprise  Assinment*
