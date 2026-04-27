@@ -30,7 +30,7 @@ export function FeaturesSection() {
                   className="h-12 w-12 object-contain"
                 />
               </div>
-              <h3 className="text-center font-display text-[16px] font-bold text-slate-950">
+              <h3 className="text-center font-display text-[16px] font-bold text-[#1a73e8]">
                 {item.title}
               </h3>
             </div>
